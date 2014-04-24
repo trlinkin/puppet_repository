@@ -12,6 +12,7 @@ mod "puppetlabs/inifile"
 mod "zack/r10k"
 mod "gentoo/portage"
 mod "thias/vsftpd"
+mod "trlinkin/sysctl"
 
 
 # Modules from Github using various references
